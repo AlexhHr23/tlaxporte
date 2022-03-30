@@ -7,7 +7,7 @@ class InputDecorations {
       required Icon icon}) {
     return InputDecoration(
       enabledBorder: const UnderlineInputBorder(
-        borderSide: BorderSide(color: Colors.purple),
+        borderSide: BorderSide(color: Color.fromARGB(255, 106, 49, 101)),
       ),
       focusedBorder: const UnderlineInputBorder(
         borderSide: BorderSide(color: Colors.purple, width: 2),
